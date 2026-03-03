@@ -1,0 +1,16 @@
+ID,Gender,Age,BMI,Glucose,BloodPressure,Score,City,Outcome
+1,Male,21,22.4,110,72,85,Mumbai,0
+2,Female,22,27.1,145,85,78,Pune,1
+3,Male,20,24.5,130,80,90,Mumbai,0
+4,Female,23,29.8,160,88,67,Delhi,1
+5,Male,21,23.0,120,75,88,Pune,0
+6,Female,22,31.2,170,90,55,Delhi,1
+7,Male,24,26.4,150,82,72,Mumbai,1
+8,Female,20,21.9,105,70,91,Pune,0
+9,Male,23,28.6,155,86,60,Delhi,1
+10,Female,21,24.1,118,74,89,Mumbai,0
+11,Male,22,30.5,165,92,58,Pune,1
+12,Female,23,22.8,112,72,94,Delhi,0
+13,Male,21,25.7,135,78,76,Mumbai,0
+14,Female,24,29.1,158,84,69,Pune,1
+15,Male,20,23.6,125,76,87,Delhi,0

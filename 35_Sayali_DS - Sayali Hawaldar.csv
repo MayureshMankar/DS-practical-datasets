@@ -1,0 +1,200 @@
+DEPARTMENT,CATEGORY,SUBCATEGORY,BREADCRUMB,URL,PRODUCT_COUNT,processed,RunDate
+Sale,Women,New Markdowns,Home/Sale/Women/New Markdowns,/browse/sale/new-markdowns/women,4834,1,03-04-2022 08:06
+Sale,Women,Clothing,Home/Sale/Women/Clothing,/browse/sale/women/clothing,14965,1,03-04-2022 08:06
+Sale,Women,Shoes,Home/Sale/Women/Shoes,/browse/sale/women/shoes,4626,1,03-04-2022 08:06
+Sale,Women,Handbags & Wallets,Home/Sale/Women/Handbags & Wallets,/browse/sale/women/handbags,247,1,03-04-2022 08:06
+Sale,Women,Jewelry,Home/Sale/Women/Jewelry,/browse/sale/women/jewelry,995,1,03-04-2022 08:06
+Sale,Women,Accessories,Home/Sale/Women/Accessories,/browse/sale/women/accessories,1778,1,03-04-2022 08:06
+Sale,Women,Beauty,Home/Sale/Women/Beauty,/browse/sale/beauty,3175,1,03-04-2022 08:06
+Sale,Women,Contemporary,Home/Sale/Women/Contemporary,/browse/sale/women/contemporary,2751,1,03-04-2022 08:06
+Sale,Women,Designer,Home/Sale/Women/Designer,/browse/sale/designer/women,593,1,03-04-2022 08:06
+Sale,Men,New Markdowns,Home/Sale/Men/New Markdowns,/browse/sale/new-markdowns/men,1758,1,03-04-2022 08:06
+Sale,Men,Clothing,Home/Sale/Men/Clothing,/browse/sale/men/clothing,5329,1,03-04-2022 08:06
+Sale,Men,Shoes,Home/Sale/Men/Shoes,/browse/sale/men/shoes,788,1,03-04-2022 08:06
+Sale,Men,Accessories,Home/Sale/Men/Accessories,/browse/sale/men/accessories,546,1,03-04-2022 08:06
+Sale,Men,Grooming & Cologne,Home/Sale/Men/Grooming & Cologne,/browse/sale/men/grooming,388,1,03-04-2022 08:06
+Sale,Men,Contemporary,Home/Sale/Men/Contemporary,/browse/sale/men/contemporary,576,1,03-04-2022 08:06
+Sale,Men,Designer,Home/Sale/Men/Designer,/browse/sale/designer/men,203,1,03-04-2022 08:06
+Sale,Kids,New Markdowns,Home/Sale/Kids/New Markdowns,/browse/sale/new-markdowns/kids,507,1,03-04-2022 08:06
+Sale,Kids,Girls,Home/Sale/Kids/Girls,/browse/sale/kids/girls,1362,1,03-04-2022 08:06
+Sale,Kids,Boys,Home/Sale/Kids/Boys,/browse/sale/kids/boys,1076,1,03-04-2022 08:06
+Sale,Kids,Baby,Home/Sale/Kids/Baby,/browse/sale/kids/baby,598,1,03-04-2022 08:06
+Sale,Kids,Baby Gear & Essentials,Home/Sale/Kids/Baby Gear & Essentials,/browse/sale/kids/baby-gear,58,1,03-04-2022 08:06
+Sale,Kids,Shoes,Home/Sale/Kids/Shoes,/browse/sale/kids/shoes,384,1,03-04-2022 08:06
+Sale,Kids,Toys,Home/Sale/Kids/Toys,/browse/sale/kids/toys,27,1,03-04-2022 08:06
+Sale,Home,Bedding & Bath,Home/Sale/Home/Bedding & Bath,/browse/sale/home/bedding,120,1,03-04-2022 08:06
+Sale,Home,Home Decor,Home/Sale/Home/Home Decor,/browse/sale/home/decor,262,1,03-04-2022 08:06
+Sale,Home,Home Electronics & Tech Accessories,Home/Sale/Home/Home Electronics & Tech Accessories,/browse/sale/home/tech,7,1,03-04-2022 08:06
+Sale,Home,Luggage & Travel,Home/Sale/Home/Luggage & Travel,/browse/sale/home/luggage,17,1,03-04-2022 08:06
+Sale,Home,Tabletop & Kitchen,Home/Sale/Home/Tabletop & Kitchen,/browse/sale/home/tabletop-kitchen,228,1,03-04-2022 08:06
+Sale,Beauty,Bath & Body,Home/Sale/Beauty/Bath & Body,/browse/sale/beauty/bath-body,248,1,03-04-2022 08:06
+Sale,Beauty,Fragrance,Home/Sale/Beauty/Fragrance,/browse/sale/beauty/fragrance,597,1,03-04-2022 08:06
+Sale,Beauty,Hair Care,Home/Sale/Beauty/Hair Care,/browse/sale/beauty/hair,139,1,03-04-2022 08:06
+Sale,Beauty,Makeup,Home/Sale/Beauty/Makeup,/browse/sale/beauty/makeup,1115,1,03-04-2022 08:06
+Sale,Beauty,Skin Care,Home/Sale/Beauty/Skin Care,/browse/sale/beauty/skincare,1330,1,03-04-2022 08:06
+Sale,Beauty,Tools & Brushes,Home/Sale/Beauty/Tools & Brushes,/browse/sale/beauty/tools-brushes,293,1,03-04-2022 08:06
+Sale,Designer,Women,Home/Sale/Designer/Women,/browse/sale/designer/women,643,1,03-04-2022 08:06
+Sale,Designer,Men,Home/Sale/Designer/Men,/browse/sale/designer/men,203,1,03-04-2022 08:06
+Sale,Designer,Kids,Home/Sale/Designer/Kids,/browse/sale/designer/kids,76,1,03-04-2022 08:06
+Sale,Young Adult,Women,Home/Sale/Young Adult/Women,/browse/sale/young-adult/women,2625,1,03-04-2022 08:06
+Sale,Young Adult,Men,Home/Sale/Young Adult/Men,/browse/sale/young-adult/men,785,1,03-04-2022 08:06
+Sale,Young Adult,Gender Inclusive,Home/Sale/Young Adult/Gender Inclusive,/browse/sale/young-adult/unisex,143,1,03-04-2022 08:06
+Women,Clothing,Activewear,Home/Women/Clothing/Activewear,/browse/activewear/women-clothing,7423,1,03-04-2022 08:06
+Women,Clothing,Blazers,Home/Women/Clothing/Blazers,/browse/women/clothing/blazers,476,1,03-04-2022 08:06
+Women,Clothing,Bodysuits,Home/Women/Clothing/Bodysuits,/browse/women/clothing/bodysuits,498,1,03-04-2022 08:06
+Women,Clothing,Coats & Jackets,Home/Women/Clothing/Coats & Jackets,/browse/women/clothing/coats-jackets,5651,1,03-04-2022 08:06
+Women,Clothing,Dresses,Home/Women/Clothing/Dresses,/browse/women/clothing/dresses,13791,1,03-04-2022 08:06
+Women,Clothing,Jeans & Denim,Home/Women/Clothing/Jeans & Denim,/browse/women/clothing/jeans,5223,1,03-04-2022 08:06
+Women,Clothing,Jumpsuits & Rompers,Home/Women/Clothing/Jumpsuits & Rompers,/browse/women/clothing/jumpsuits-rompers,1049,1,03-04-2022 08:06
+Women,Clothing,"Lingerie, Hosiery & Shapewear","Home/Women/Clothing/Lingerie, Hosiery & Shapewear",/browse/women/clothing/underwear-lingerie,4566,1,03-04-2022 08:06
+Women,Clothing,Loungewear,Home/Women/Clothing/Loungewear,/browse/women/clothing/loungewear,881,1,03-04-2022 08:06
+Women,Clothing,Pants & Leggings,Home/Women/Clothing/Pants & Leggings,/browse/women/clothing/pants,10220,1,03-04-2022 08:06
+Women,Clothing,Shorts,Home/Women/Clothing/Shorts,/browse/women/clothing/shorts,2208,1,03-04-2022 08:06
+Women,Clothing,Skirts,Home/Women/Clothing/Skirts,/browse/women/clothing/skirts,1770,1,03-04-2022 08:06
+Women,Clothing,Sleepwear & Robes,Home/Women/Clothing/Sleepwear & Robes,/browse/women/clothing/sleepwear-robes,3169,1,03-04-2022 08:06
+Women,Clothing,Suits,Home/Women/Clothing/Suits,/browse/women/clothing/work-suits,45,1,03-04-2022 08:06
+Women,Clothing,Sweaters,Home/Women/Clothing/Sweaters,/browse/women/clothing/sweaters,5045,1,03-04-2022 08:06
+Women,Clothing,Sweatshirts & Hoodies,Home/Women/Clothing/Sweatshirts & Hoodies,/browse/women/clothing/sweatshirts-hoodies,4949,1,03-04-2022 08:06
+Women,Clothing,Swimsuits & Cover-Ups,Home/Women/Clothing/Swimsuits & Cover-Ups,/browse/women/clothing/swimsuits,3488,1,03-04-2022 08:06
+Women,Clothing,Tops,Home/Women/Clothing/Tops,/browse/women/clothing/tops-tees,19413,1,03-04-2022 08:06
+Women,Shoes,Booties,Home/Women/Shoes/Booties,/browse/women/shoes/booties,2084,1,03-04-2022 08:06
+Women,Shoes,Boots,Home/Women/Shoes/Boots,/browse/women/shoes/boots,4983,1,03-04-2022 08:06
+Women,Shoes,Clogs,Home/Women/Shoes/Clogs,/browse/women/shoes/clogs,375,1,03-04-2022 08:06
+Women,Shoes,Comfort,Home/Women/Shoes/Comfort,/browse/women/shoes/comfort,6943,1,03-04-2022 08:06
+Women,Shoes,Dress Shoes,Home/Women/Shoes/Dress Shoes,/browse/women/shoes/dress-shoes,459,1,03-04-2022 08:06
+Women,Shoes,Espadrilles,Home/Women/Shoes/Espadrilles,/browse/women/shoes/espadrilles,551,1,03-04-2022 08:06
+Women,Shoes,Flats,Home/Women/Shoes/Flats,/browse/women/shoes/flats,1467,1,03-04-2022 08:06
+Women,Shoes,Heels,Home/Women/Shoes/Heels,/browse/women/shoes/heels,5404,1,03-04-2022 08:06
+Women,Shoes,Mules & Slides,Home/Women/Shoes/Mules & Slides,/browse/women/shoes/mules-slides,2621,1,03-04-2022 08:06
+Women,Shoes,Oxfords & Loafers,Home/Women/Shoes/Oxfords & Loafers,/browse/women/shoes/oxfords-loafers,919,1,03-04-2022 08:06
+Women,Shoes,Running Shoes,Home/Women/Shoes/Running Shoes,/browse/women/shoes/running-shoes,175,1,03-04-2022 08:06
+Women,Shoes,Sandals,Home/Women/Shoes/Sandals,/browse/women/shoes/sandals,7296,1,03-04-2022 08:06
+Women,Shoes,Shoe Care & Accessories,Home/Women/Shoes/Shoe Care & Accessories,/browse/women/shoes/care,36,1,03-04-2022 08:06
+Women,Shoes,Slippers,Home/Women/Shoes/Slippers,/browse/women/shoes/slippers,511,1,03-04-2022 08:06
+Women,Shoes,Sneakers & Athletic,Home/Women/Shoes/Sneakers & Athletic,/browse/women/shoes/sneakers-athletic,4478,1,03-04-2022 08:06
+Women,Shoes,Snow & Winter,Home/Women/Shoes/Snow & Winter,/browse/women/shoes/boots/winter-snow-boots,551,1,03-04-2022 08:06
+Women,Handbags,Backpacks,Home/Women/Handbags/Backpacks,/browse/women/handbags/backpacks,280,1,03-04-2022 08:06
+Women,Handbags,Belt Bags,Home/Women/Handbags/Belt Bags,/browse/women/handbags/belt-bags,110,1,03-04-2022 08:06
+Women,Handbags,Bucket Bags,Home/Women/Handbags/Bucket Bags,/browse/women/handbags/bucket,140,1,03-04-2022 08:06
+Women,Handbags,Camera Bags,Home/Women/Handbags/Camera Bags,/browse/women/handbags/camera,79,1,03-04-2022 08:06
+Women,Handbags,Clutches & Pouches,Home/Women/Handbags/Clutches & Pouches,/browse/women/handbags/clutches,377,1,03-04-2022 08:06
+Women,Handbags,Crossbody Bags,Home/Women/Handbags/Crossbody Bags,/browse/women/handbags/crossbody,1041,1,03-04-2022 08:06
+Women,Handbags,Designer Bags,Home/Women/Handbags/Designer Bags,/browse/designer/women/handbags,2718,1,03-04-2022 08:06
+Women,Handbags,Hobo Bags,Home/Women/Handbags/Hobo Bags,/browse/women/handbags/hobo,149,1,03-04-2022 08:06
+Women,Handbags,Satchels,Home/Women/Handbags/Satchels,/browse/women/handbags/satchels,176,1,03-04-2022 08:06
+Women,Handbags,Shoulder Bags,Home/Women/Handbags/Shoulder Bags,/browse/women/handbags/shoulder-bags,980,1,03-04-2022 08:06
+Women,Handbags,Straw Bags,Home/Women/Handbags/Straw Bags,/browse/women/handbags/straw,111,1,03-04-2022 08:06
+Women,Handbags,Tote Bags,Home/Women/Handbags/Tote Bags,/browse/women/handbags/totes,755,1,03-04-2022 08:06
+Women,Handbags,Wallets & Card Cases,Home/Women/Handbags/Wallets & Card Cases,/browse/women/handbags/wallets,502,1,03-04-2022 08:06
+Women,Handbags,Luggage & Travel,Home/Women/Handbags/Luggage & Travel,/browse/home/luggage-travel,434,1,03-04-2022 08:06
+Women,Jewelry,Anklets,Home/Women/Jewelry/Anklets,/browse/women/jewelry/anklets,136,1,03-04-2022 08:06
+Women,Jewelry,Bracelets,Home/Women/Jewelry/Bracelets,/browse/women/jewelry/bracelets,2833,1,03-04-2022 08:06
+Women,Jewelry,Charms,Home/Women/Jewelry/Charms,/browse/women/jewelry/charms,320,1,03-04-2022 08:06
+Women,Jewelry,Earrings,Home/Women/Jewelry/Earrings,/browse/women/jewelry/earrings,5865,1,03-04-2022 08:06
+Women,Jewelry,Necklaces,Home/Women/Jewelry/Necklaces,/browse/women/jewelry/necklaces,4818,1,03-04-2022 08:06
+Women,Jewelry,Rings,Home/Women/Jewelry/Rings,/browse/women/jewelry/rings,2544,1,03-04-2022 08:06
+Women,Jewelry,Watches,Home/Women/Jewelry/Watches,/browse/women/jewelry/watches,1431,1,03-04-2022 08:06
+Women,Jewelry,Fine Jewelry,Home/Women/Jewelry/Fine Jewelry,/browse/women/jewelry/fine,7253,1,03-04-2022 08:06
+Women,Jewelry,Customizable,Home/Women/Jewelry/Customizable,/browse/women/jewelry/customized,76,1,03-04-2022 08:06
+Women,Jewelry,Jewelry Accessories,Home/Women/Jewelry/Jewelry Accessories,/browse/women/jewelry/jewelry-accessories,17,1,03-04-2022 08:06
+Women,Jewelry,Jewelry Boxes & Holders,Home/Women/Jewelry/Jewelry Boxes & Holders,/browse/home/decor/jewelry-boxes-holders,147,1,03-04-2022 08:06
+Women,Jewelry,Jewelry Under $50,Home/Women/Jewelry/Jewelry Under $50,/browse/women/jewelry/jewelry-under-50,3512,1,03-04-2022 08:06
+Women,Accessories,Belts,Home/Women/Accessories/Belts,/browse/women/accessories/belts,512,1,03-04-2022 08:06
+Women,Accessories,Face Masks,Home/Women/Accessories/Face Masks,/browse/women/accessories/protective-face-masks,108,1,03-04-2022 08:06
+Women,Accessories,Gloves & Mittens,Home/Women/Accessories/Gloves & Mittens,/browse/women/accessories/gloves-mittens,175,1,03-04-2022 08:06
+Women,Accessories,Hair Accessories,Home/Women/Accessories/Hair Accessories,/browse/women/accessories/hair-accessories,716,1,03-04-2022 08:06
+Women,Accessories,Handbags & Wallets,Home/Women/Accessories/Handbags & Wallets,/browse/women/handbags,5027,1,03-04-2022 08:06
+Women,Accessories,Hats,Home/Women/Accessories/Hats,/browse/women/accessories/hats,3072,1,03-04-2022 08:06
+Women,Accessories,Headphones,Home/Women/Accessories/Headphones,/browse/home/electronics/headphones,25,1,03-04-2022 08:06
+Women,Accessories,Hijabs and Headscarves,Home/Women/Accessories/Hijabs and Headscarves,/browse/women/accessories/hijabs-headscarves,3,1,03-04-2022 08:06
+Women,Accessories,Jewelry,Home/Women/Accessories/Jewelry,/browse/women/jewelry,18194,1,03-04-2022 08:06
+Women,Accessories,Phone Cases,Home/Women/Accessories/Phone Cases,/browse/women/accessories/phone-cases,149,1,03-04-2022 08:06
+Women,Accessories,Scarves & Wraps,Home/Women/Accessories/Scarves & Wraps,/browse/women/accessories/scarves-wraps,1075,1,03-04-2022 08:06
+Women,Accessories,Sunglasses & Eyewear,Home/Women/Accessories/Sunglasses & Eyewear,/browse/women/accessories/sunglasses,4001,1,03-04-2022 08:06
+Women,Maternity,Maternity Clothing,Home/Women/Maternity/Maternity Clothing,/browse/women/maternity/clothing,1408,1,03-04-2022 08:06
+Women,Maternity,Activewear,Home/Women/Maternity/Activewear,/browse/women/maternity/activewear,35,1,03-04-2022 08:06
+Women,Maternity,Dresses,Home/Women/Maternity/Dresses,/browse/women/maternity/dresses,256,1,03-04-2022 08:06
+Women,Maternity,Jackets & Coats,Home/Women/Maternity/Jackets & Coats,/browse/women/maternity/coats-jackets,35,1,03-04-2022 08:06
+Women,Maternity,Jeans,Home/Women/Maternity/Jeans,/browse/women/maternity/jeans,121,1,03-04-2022 08:06
+Women,Maternity,Leggings & Pants,Home/Women/Maternity/Leggings & Pants,/browse/women/maternity/pants,245,1,03-04-2022 08:06
+Women,Maternity,"Lingerie, Hosiery & Shapewear","Home/Women/Maternity/Lingerie, Hosiery & Shapewear",/browse/women/maternity/underwear-lingerie,210,1,03-04-2022 08:06
+Women,Maternity,Pregnancy Pillows & Support,Home/Women/Maternity/Pregnancy Pillows & Support,/browse/women/maternity/maternity-support,33,1,03-04-2022 08:06
+Women,Maternity,Shorts,Home/Women/Maternity/Shorts,/browse/women/maternity/shorts,38,1,03-04-2022 08:06
+Women,Maternity,Swimsuits & Cover-Ups,Home/Women/Maternity/Swimsuits & Cover-Ups,/browse/women/maternity/swimsuits,95,1,03-04-2022 08:06
+Women,Maternity,Tops,Home/Women/Maternity/Tops,/browse/women/maternity/tops,333,1,03-04-2022 08:06
+Women,Tech Accessories,Headphones,Home/Women/Tech Accessories/Headphones,/browse/home/electronics/headphones,25,1,03-04-2022 08:06
+Women,Tech Accessories,Phone Cases,Home/Women/Tech Accessories/Phone Cases,/browse/women/accessories/phone-cases,149,1,03-04-2022 08:06
+Women,New Arrivals,Clothing,Home/Women/New Arrivals/Clothing,/browse/women/new/clothing,5511,1,03-04-2022 08:06
+Women,New Arrivals,Shoes,Home/Women/New Arrivals/Shoes,/browse/women/new/shoes,948,1,03-04-2022 08:06
+Women,New Arrivals,Handbags & Wallets,Home/Women/New Arrivals/Handbags & Wallets,/browse/women/new/handbags,191,1,03-04-2022 08:06
+Women,New Arrivals,Jewelry,Home/Women/New Arrivals/Jewelry,/browse/women/new/jewelry,354,1,03-04-2022 08:06
+Women,New Arrivals,Accessories,Home/Women/New Arrivals/Accessories,/browse/women/new/accessories,802,1,03-04-2022 08:06
+Women,New Arrivals,Beauty,Home/Women/New Arrivals/Beauty,/browse/beauty/new,52,1,03-04-2022 08:06
+Men,Clothing,Activewear,Home/Men/Clothing/Activewear,/browse/activewear/men-clothing,13487,1,03-04-2022 08:06
+Men,Clothing,Blazers & Sport Coats,Home/Men/Clothing/Blazers & Sport Coats,/browse/men/clothing/blazers-sportcoats,596,1,03-04-2022 08:06
+Men,Clothing,Coats & Jackets,Home/Men/Clothing/Coats & Jackets,/browse/men/clothing/coats-jackets,6689,1,03-04-2022 08:06
+Men,Clothing,Dress Shirts,Home/Men/Clothing/Dress Shirts,/browse/men/clothing/shirts/dress-shirts,555,1,03-04-2022 08:06
+Men,Clothing,Jeans,Home/Men/Clothing/Jeans,/browse/men/clothing/jeans,2144,1,03-04-2022 08:06
+Men,Clothing,Joggers & Sweatpants,Home/Men/Clothing/Joggers & Sweatpants,/browse/men/clothing/joggers,971,1,03-04-2022 08:06
+Men,Clothing,"Lounge, Pajamas & Robes","Home/Men/Clothing/Lounge, Pajamas & Robes",/browse/men/clothing/sleepwear-robes,1202,1,03-04-2022 08:06
+Men,Clothing,Pants,Home/Men/Clothing/Pants,/browse/men/clothing/pants,5172,1,03-04-2022 08:06
+Men,Clothing,Polo Shirts,Home/Men/Clothing/Polo Shirts,/browse/men/clothing/shirts/polo-shirts,3521,1,03-04-2022 08:06
+Men,Clothing,Shirts,Home/Men/Clothing/Shirts,/browse/men/clothing/shirts,24835,1,03-04-2022 08:06
+Men,Clothing,Shorts,Home/Men/Clothing/Shorts,/browse/men/clothing/shorts,2663,1,03-04-2022 08:06
+Men,Clothing,Socks,Home/Men/Clothing/Socks,/browse/men/clothing/socks,632,1,03-04-2022 08:06
+Men,Clothing,Suits & Separates,Home/Men/Clothing/Suits & Separates,/browse/men/clothing/suits,232,1,03-04-2022 08:06
+Men,Clothing,Sweaters,Home/Men/Clothing/Sweaters,/browse/men/clothing/sweaters,1350,1,03-04-2022 08:06
+Men,Clothing,Sweatshirts & Hoodies,Home/Men/Clothing/Sweatshirts & Hoodies,/browse/men/clothing/sweatshirts-hoodies,8177,1,03-04-2022 08:06
+Men,Clothing,Swimwear & Board Shorts,Home/Men/Clothing/Swimwear & Board Shorts,/browse/men/clothing/swimwear,950,1,03-04-2022 08:06
+Men,Clothing,T-Shirts,Home/Men/Clothing/T-Shirts,/browse/men/clothing/shirts/tshirts,14298,1,03-04-2022 08:06
+Men,Clothing,Underwear & Boxers,Home/Men/Clothing/Underwear & Boxers,/browse/men/clothing/underwear-socks,1156,1,03-04-2022 08:06
+Men,Shoes,Boots,Home/Men/Shoes/Boots,/browse/men/shoes/boots,1027,1,03-04-2022 08:06
+Men,Shoes,Comfort,Home/Men/Shoes/Comfort,/browse/men/shoes/comfort,1765,1,03-04-2022 08:06
+Men,Shoes,Dress Shoes,Home/Men/Shoes/Dress Shoes,/browse/men/shoes/dress,1270,1,03-04-2022 08:06
+Men,Shoes,Loafers & Slip-Ons,Home/Men/Shoes/Loafers & Slip-Ons,/browse/men/shoes/loafers-slip-ons,884,1,03-04-2022 08:06
+Men,Shoes,Oxfords & Derbys,Home/Men/Shoes/Oxfords & Derbys,/browse/men/shoes/oxfords,550,1,03-04-2022 08:06
+Men,Shoes,Running Shoes,Home/Men/Shoes/Running Shoes,/browse/men/shoes/running-shoes,219,1,03-04-2022 08:06
+Men,Shoes,Sandals & Flip-Flops,Home/Men/Shoes/Sandals & Flip-Flops,/browse/men/shoes/sandals,732,1,03-04-2022 08:06
+Men,Shoes,Shoe Care & Accessories,Home/Men/Shoes/Shoe Care & Accessories,/browse/men/shoes/care,35,1,03-04-2022 08:06
+Men,Shoes,Slippers,Home/Men/Shoes/Slippers,/browse/men/shoes/slippers,384,1,03-04-2022 08:06
+Men,Shoes,Sneakers & Athletic,Home/Men/Shoes/Sneakers & Athletic,/browse/men/shoes/sneakers-athletic,2792,1,03-04-2022 08:06
+Men,Accessories,Bags,Home/Men/Accessories/Bags,/browse/men/accessories/bags-backpacks,1120,1,03-04-2022 08:06
+Men,Accessories,Belts,Home/Men/Accessories/Belts,/browse/men/accessories/belts,566,1,03-04-2022 08:06
+Men,Accessories,Face Masks,Home/Men/Accessories/Face Masks,/browse/men/accessories/protective-face-mask,62,1,03-04-2022 08:06
+Men,Accessories,Gloves,Home/Men/Accessories/Gloves,/browse/men/accessories/gloves,125,1,03-04-2022 08:06
+Men,Accessories,Hats,Home/Men/Accessories/Hats,/browse/men/accessories/hats,10447,1,03-04-2022 08:06
+Men,Accessories,Headphones,Home/Men/Accessories/Headphones,/browse/home/electronics/headphones,24,1,03-04-2022 08:06
+Men,Accessories,Phone Cases,Home/Men/Accessories/Phone Cases,/browse/women/accessories/phone-cases,146,1,03-04-2022 08:06
+Men,Accessories,Scarves,Home/Men/Accessories/Scarves,/browse/men/accessories/scarves,235,1,03-04-2022 08:06
+Men,Accessories,Sunglasses & Eyewear,Home/Men/Accessories/Sunglasses & Eyewear,/browse/men/accessories/sunglasses,2594,1,03-04-2022 08:06
+Men,Accessories,Ties & Pocket Squares,Home/Men/Accessories/Ties & Pocket Squares,/browse/men/accessories/ties-pocket-squares,718,1,03-04-2022 08:06
+Men,Accessories,Wallets & Card Cases,Home/Men/Accessories/Wallets & Card Cases,/browse/men/accessories/wallets,727,1,03-04-2022 08:06
+Men,Accessories,Luggage & Travel,Home/Men/Accessories/Luggage & Travel,/browse/home/luggage-travel,434,1,03-04-2022 08:06
+Men,Jewelry,Bracelets,Home/Men/Jewelry/Bracelets,/browse/men/jewelry/bracelets,374,1,03-04-2022 08:06
+Men,Jewelry,Cufflinks,Home/Men/Jewelry/Cufflinks,/browse/men/jewelry/cuff-links,463,1,03-04-2022 08:06
+Men,Jewelry,Earrings,Home/Men/Jewelry/Earrings,/browse/men/jewelry/earrings,70,1,03-04-2022 08:06
+Men,Jewelry,Fine Jewelry,Home/Men/Jewelry/Fine Jewelry,/browse/men/jewelry/fine,504,1,03-04-2022 08:06
+Men,Jewelry,Lapel Pins,Home/Men/Jewelry/Lapel Pins,/browse/men/jewelry/lapel-pins,61,1,03-04-2022 08:06
+Men,Jewelry,Necklaces,Home/Men/Jewelry/Necklaces,/browse/men/jewelry/necklaces,277,1,03-04-2022 08:06
+Men,Jewelry,Rings,Home/Men/Jewelry/Rings,/browse/men/jewelry/rings,175,1,03-04-2022 08:06
+Men,Jewelry,Tie Clips,Home/Men/Jewelry/Tie Clips,/browse/men/jewelry/tie-clips,119,1,03-04-2022 08:06
+Men,Jewelry,Watches,Home/Men/Jewelry/Watches,/browse/men/jewelry/watches,1990,1,03-04-2022 08:06
+Men,Designer,Designer Clothing,Home/Men/Designer/Designer Clothing,/browse/designer/men/clothing,3061,1,03-04-2022 08:06
+Men,Designer,Designer Shoes,Home/Men/Designer/Designer Shoes,/browse/designer/men/shoes,948,1,03-04-2022 08:06
+Men,Designer,Designer Accessories,Home/Men/Designer/Designer Accessories,/browse/designer/men/accessories,977,1,03-04-2022 08:06
+Men,Grooming & Cologne,Body Care & Deodorant,Home/Men/Grooming & Cologne/Body Care & Deodorant,/browse/men/grooming/body,416,1,03-04-2022 08:06
+Men,Grooming & Cologne,Cologne,Home/Men/Grooming & Cologne/Cologne,/browse/men/grooming/cologne,514,1,03-04-2022 08:06
+Men,Grooming & Cologne,Dopp Kits & Toiletry Bags,Home/Men/Grooming & Cologne/Dopp Kits & Toiletry Bags,/browse/men/grooming/toiletry-bags,27,1,03-04-2022 08:06
+Men,Grooming & Cologne,Gifts & Sets,Home/Men/Grooming & Cologne/Gifts & Sets,/browse/men/grooming/gift-sets,320,1,03-04-2022 08:06
+Men,Grooming & Cologne,Hair Products,Home/Men/Grooming & Cologne/Hair Products,/browse/men/grooming/hair,251,1,03-04-2022 08:06
+Men,Grooming & Cologne,Shaving & Beard Care,Home/Men/Grooming & Cologne/Shaving & Beard Care,/browse/men/grooming/shaving,135,1,03-04-2022 08:06
+Men,Grooming & Cologne,Skin Care,Home/Men/Grooming & Cologne/Skin Care,/browse/men/grooming/skincare,806,1,03-04-2022 08:06
+Men,Grooming & Cologne,Tools & Brushes,Home/Men/Grooming & Cologne/Tools & Brushes,/browse/men/grooming/tools-toiletry-bags,89,1,03-04-2022 08:06
+Men,New Arrivals,Clothing,Home/Men/New Arrivals/Clothing,/browse/men/new/clothing,5454,1,03-04-2022 08:06
+Men,New Arrivals,Shoes,Home/Men/New Arrivals/Shoes,/browse/men/new/shoes,221,1,03-04-2022 08:06
+Men,New Arrivals,Accessories,Home/Men/New Arrivals/Accessories,/browse/men/new/accessories,981,1,03-04-2022 08:06
+Men,New Arrivals,Grooming & Cologne,Home/Men/New Arrivals/Grooming & Cologne,/browse/men/new/grooming,12,1,03-04-2022 08:06
+Men,Bestsellers,Bestsellers,Home/Men/Bestsellers,/browse/men/bestsellers,829,1,03-04-2022 08:06
+Kids,Kids' Clothing,Activewear,Home/Kids/Kids' Clothing/Activewear,/browse/kids/clothing/activewear,3408,1,03-04-2022 08:06
+Kids,Kids' Clothing,Coats & Jackets,Home/Kids/Kids' Clothing/Coats & Jackets,/browse/kids/clothing/coats-jackets,1010,1,03-04-2022 08:06
+Kids,Kids' Clothing,Jeans & Denim,Home/Kids/Kids' Clothing/Jeans & Denim,/browse/kids/clothing/jeans,171,1,03-04-2022 08:06
