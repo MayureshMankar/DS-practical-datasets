@@ -1,0 +1,24 @@
+Name,Age,Blood_Pressure_Systolic,Blood_Pressure_Diastolic,Cholesterol,BMI,Blood_Sugar,Exercise_Frequency,Diagnosis
+John Smith,45,120,80,195,24.5,95,3,Normal
+Sarah Johnson,52,140,90,240,28.2,110,1,Hypertension
+Michael Brown,38,118,79,180,22.1,88,5,Normal
+Emily Davis,61,150,95,260,31.5,135,0,Hypertension
+David Wilson,42,125,82,210,25.8,100,2,Normal
+Lisa Anderson,55,145,92,250,29.7,128,1,Hypertension
+James Taylor,48,130,85,220,26.4,112,2,Prediabetes
+Patricia Martinez,58,148,94,255,30.2,140,0,Hypertension
+Robert Thomas,41,122,81,200,23.9,92,4,Normal
+Jennifer Garcia,50,138,88,235,27.6,115,1,Hypertension
+Rajesh Kumar,52,130,85,220,28.2,110,2,Hypertension
+Priya Singh,38,115,75,180,22.1,88,5,Normal
+Michael Chen,61,145,92,245,31.5,135,1,Hypertension
+Emma Wilson,29,108,70,165,20.8,85,4,Normal
+David Brown,55,135,88,210,27.9,120,2,Prediabetes
+Amit Patel,67,150,95,260,32.8,145,1,Hypertension
+Carlos Martinez,58,140,90,235,30.2,128,2,Hypertension
+Nina Gupta,41,118,76,185,23.7,98,3,Normal
+Robert Taylor,64,148,93,250,33.1,140,1,Hypertension
+Sophie Dubois,33,110,72,170,21.5,87,5,Normal
+Ahmed Hassan,44,128,84,215,26.1,108,2,Prediabetes
+Maria Wong,36,112,74,175,21.9,90,4,Normal
+Susan Lee,60,142,91,242,30.8,132,1,Hypertension
